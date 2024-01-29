@@ -1686,6 +1686,7 @@ h1 {
   }
 
   .heading-7 {
+    margin-top: 0;
     font-size: 24px;
     line-height: 28px;
   }
@@ -1695,8 +1696,8 @@ h1 {
     line-height: 20px;
   }
 
-  .cell-7 {
-    padding-top: 22px;
+  .cell-7, .quick-stack-4 {
+    padding-top: 0;
   }
 }
 
