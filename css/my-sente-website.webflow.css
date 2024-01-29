@@ -1220,6 +1220,8 @@ h1 {
   .paragraph {
     margin-top: -7px;
     margin-bottom: 0;
+    font-size: 14px;
+    line-height: 16px;
   }
 
   .heading-2 {
@@ -1229,8 +1231,8 @@ h1 {
 
   .paragraph-2 {
     margin-bottom: 13px;
-    font-size: 10px;
-    line-height: 10px;
+    font-size: 14px;
+    line-height: 16px;
   }
 
   .hero-section {
@@ -1374,7 +1376,11 @@ h1 {
   }
 
   .div-block-4 {
-    padding-top: 43px;
+    padding-top: 0;
+  }
+
+  .div-block-10 {
+    padding-top: 59px;
   }
 
   .footer-dark {
@@ -1481,8 +1487,8 @@ h1 {
   }
 
   .paragraph {
-    font-size: 10px;
-    line-height: 10px;
+    font-size: 14px;
+    line-height: 16px;
   }
 
   .button {
@@ -1520,8 +1526,8 @@ h1 {
   }
 
   .paragraph-2 {
-    font-size: 10px;
-    line-height: 12px;
+    font-size: 14px;
+    line-height: 16px;
   }
 
   .hero-section {
@@ -1588,8 +1594,8 @@ h1 {
   }
 
   .heading-3.sub-heading {
-    font-size: 12px;
-    line-height: 12px;
+    font-size: 14px;
+    line-height: 18px;
   }
 
   .heading-3.sub-heading.centered {
@@ -1677,8 +1683,13 @@ h1 {
   }
 
   .paragraph-3.review-sub-heading {
-    font-size: 12px;
-    line-height: 12px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+
+  .paragraph-5 {
+    font-size: 14px;
+    line-height: 14px;
   }
 
   .image-11 {
@@ -1698,6 +1709,10 @@ h1 {
 
   .cell-7, .quick-stack-4 {
     padding-top: 0;
+  }
+
+  .paragraph-6 {
+    font-size: 16px;
   }
 }
 
